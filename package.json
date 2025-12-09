@@ -1,0 +1,28 @@
+{
+  "name": "js-oop-practice",
+  "version": "1.0.0",
+  "description": "Learning Object-Oriented Programming in JavaScript with hands-on examples and exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammad-arafat/js-oop-practice.git"
+  },
+  "keywords": [
+    "javascript",
+    "oop",
+    "classes",
+    "inheritance",
+    "polymorphism",
+    "encapsulation"
+  ],
+  "author": "Muhammad Arafat",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/muhammad-arafat/js-oop-practice/issues"
+  },
+  "homepage": "https://github.com/muhammad-arafat/js-oop-practice#readme"
+}
